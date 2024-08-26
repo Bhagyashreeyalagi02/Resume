@@ -1,5 +1,4 @@
 # Resume
-# My HTML/CSS Resume
 
 This repository contains my personal resume created using HTML and CSS. The goal of this project is to showcase my web development skills and provide a clean, professional, and interactive format for my resume. 
 
